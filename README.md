@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ce-shyam21/ce-shyam21/blob/main/ce_shyam21.com.gif)
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 

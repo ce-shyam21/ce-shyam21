@@ -1,7 +1,8 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="codinggif" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codeyourcareer.com%2Fweb-development&psig=AOvVaw1GXIsufucJKm7OdmMl3_kD&ust=1716046393697000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDPi5OBlYYDFQAAAAAdAAAAABAR">
+<img align="right" alt="codinggif" width="400" src="Qltuh.check-tl-ver-12-8.top/space-robot/?pl=CHiI7Gh3GUyTa8XGgNqDyQ&sm=space-robot&click_id=coboiuijvq3cg01gqhgg&nrid=60019160dac547858a9d99db961f0e62&hash=vA6NpGP68jcXcVcXSZUR-w&exp=1712818855#">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ce-shyam21&label=Profile%20views&color=0e75b6&style=flat" alt="ce-shyam21" /> </p>
 

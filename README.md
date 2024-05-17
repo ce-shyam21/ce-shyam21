@@ -1,8 +1,8 @@
-![logo](https://github.com/ce-shyam21/ce-shyam21/blob/main/ce_shyam21.com.gif)
+![logo]()
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="codinggif" width="400" src="Qltuh.check-tl-ver-12-8.top/space-robot/?pl=CHiI7Gh3GUyTa8XGgNqDyQ&sm=space-robot&click_id=coboiuijvq3cg01gqhgg&nrid=60019160dac547858a9d99db961f0e62&hash=vA6NpGP68jcXcVcXSZUR-w&exp=1712818855#">
+<img align="right" alt="codinggif" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGVla3F4MS0yMGQ2MzYzZi0xODVlLTRmOGQtYTc0OC1mNWIzZjNiOGZkZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bQwR0OGahVNiMtiHhvn95SFiuAZKxapsWSr_AbMK_Oc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ce-shyam21&label=Profile%20views&color=0e75b6&style=flat" alt="ce-shyam21" /> </p>
 

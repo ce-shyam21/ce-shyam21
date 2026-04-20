@@ -133,7 +133,7 @@ const shyam = {
 ### 🗂️ Portfolio
 > Personal portfolio showcasing all projects & skills
 
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-7c3aed?style=for-the-badge)](https://ce-shyam21.github.io/shyam21.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-7c3aed?style=for-the-badge)](https://ce-shyam21.vercel.app)
 
 **Stack:** HTML · CSS · JavaScript
 
@@ -152,7 +152,7 @@ const shyam = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-mangroliya-ce21/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shyam21ce/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ce.shyam21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://ce-shyam21.github.io/shyam21.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://ce-shyam21.vercel.app)
 
 </div>
 
